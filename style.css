@@ -1,0 +1,68 @@
+
+.top_box{
+	width: 130px;
+	height: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: #ffedcc;
+	padding: 5px;
+	color: #ffa500;  /*orange*/
+	font-size: 20px;
+	border-color: #ffa500;
+	border-width: 5px;
+	border-style: solid;
+	
+	position:relative;
+	left: 370px;
+}
+
+.korp{
+	width: 1225px;
+	height: 650px;
+	line-height: 700px;
+	text-align: center;
+	font-size: 70px;
+	color: #ffedcc;  /*light orange*/
+	font-family: Monaco;
+	background-color: #ffa500;
+	padding: 0;
+
+	position: relative;
+	top: -150px;
+	z-index: -1;
+}
+
+
+.kopf{
+/*	width: 1225px;*/
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	background-color: #ffa500;
+}
+
+
+.column{
+	width: 400px;
+	float: left;
+	margin-right: 30px; 
+	position: inline-block;
+	position: relative;
+	left: 100px;
+}
+
+.pie{
+	height: 100px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.pic{
+	height: 150px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	float: left;
+}
